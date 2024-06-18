@@ -11,8 +11,6 @@ N/A
 
 This Prework Study Guide serves as a summary of the work done for the bootcamp prework. The page also lists the topics covered during the prework and provides a suggestion on which to study first. The suggestion is generated randomly upon loading the page. 
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
